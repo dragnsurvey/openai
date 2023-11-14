@@ -1,7 +1,3 @@
-Creating a comprehensive and informative `README` file is crucial for any software package. It should effectively communicate what the package does, how to install it, and how to use it, among other things. Below is a template for a `README` file for your Laravel package, which you can customize based on your package's specifics:
-
----
-
 # Laravel OpenAI Package
 
 ## Description
